@@ -1,0 +1,9 @@
+{
+  "name": "loy-sparkling",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/loy-sparkling/src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project loy-sparkling --web",
+  "targets": {}
+}
